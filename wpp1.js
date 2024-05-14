@@ -1,3 +1,11 @@
+// Write a JavaScript program to display the current day and time in the following format.
+
+// Sample Output : 
+
+// Today is : Tuesday.
+// Current time is : 10 PM : 30 : 38
+
+
 var curr_date = new Date();
 var curr_day = curr_date.getDay();
 
@@ -33,4 +41,5 @@ if (hour === 0 && prepand === ' AM ') {
     }
 }
 
+console.log("Today is: " + dayList[curr_day] + ".");
 console.log("Current Time: " + hour + prepand + " : " + minute + " : " + second); 
