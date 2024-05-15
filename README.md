@@ -1,8 +1,8 @@
 Updates
 
 - [x] wpp1
-- [ ] wpp2
-- [ ] wpp3
+- [x] wpp2
+- [x] wpp3
 - [ ] wpp4
 - [ ] wpp5
 - [ ] wpp6
