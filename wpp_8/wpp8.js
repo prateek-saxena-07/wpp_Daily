@@ -12,7 +12,3 @@ function start_spec_str(str) {
     return false;
   }
 }
-
-console.log(start_spec_str("JavaScript"));
-console.log(start_spec_str("Java"));
-console.log(start_spec_str("Python"));
