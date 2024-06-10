@@ -6,4 +6,3 @@ function upper_lower(str) {
   back_part = str.substring(3, str.length);
   return front_part + back_part;
 }
-con;
